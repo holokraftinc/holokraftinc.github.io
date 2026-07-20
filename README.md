@@ -8,7 +8,7 @@ Official website for **Noted - Day Planner**, an all-in-one productivity Android
 
 ## 🚀 Live Website
 
-**URL:** https://holokraftinc.github.io/noted/
+**URL:** https://holokraftinc.github.io
 
 ---
 
